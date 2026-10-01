@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <title>NexSync Solutions</title>
+  <defs>
+    <linearGradient id="nx" gradientUnits="userSpaceOnUse" x1="12" y1="88" x2="88" y2="12">
+      <stop offset="0" stop-color="#0e3567"/>
+      <stop offset=".5" stop-color="#1a6ea8"/>
+      <stop offset="1" stop-color="#22a9dc"/>
+    </linearGradient>
+    <mask id="hole"><rect width="100" height="100" fill="#fff"/><circle cx="50" cy="50" r="4"/></mask>
+  </defs>
+  <g mask="url(#hole)">
+  <g fill="none" stroke="url(#nx)" stroke-width="8">
+    <path d="M62 28C50 19 38 8 22 8C10 8 6 18 7.5 26C9 34 13 40 17 46"/>
+    <path d="M72 62C81 50 92 38 92 22C92 10 82 6 74 7.5C66 9 60 13 54 17"/>
+    <path d="M38 72C50 81 62 92 78 92C90 92 94 82 92.5 74C91 66 87 60 83 54"/>
+    <path d="M28 38C19 50 8 62 8 78C8 90 18 94 26 92.5C34 91 40 87 46 83"/>
+    <path d="M25.5 25.5L74.5 74.5M74.5 25.5L25.5 74.5" stroke-width="7.5" stroke-linecap="round"/>
+  </g>
+  <circle cx="50" cy="50" r="10.5" fill="url(#nx)"/>
+  </g>
+</svg>

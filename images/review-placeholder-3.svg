@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540">
+  <defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2f64b1"/><stop offset="1" stop-color="#1fb6d9"/></linearGradient></defs>
+  <rect width="960" height="540" fill="url(#b)"/>
+  <circle cx="860" cy="80" r="180" fill="#fff" opacity=".06"/><circle cx="80" cy="500" r="160" fill="#fff" opacity=".06"/>
+  <rect x="140" y="110" width="680" height="320" rx="18" fill="#fff"/>
+  <g fill="#f5b301" transform="translate(372 150)">
+    <path transform="translate(0 0)" d="M18 0 l5.3 11.6 12.7 1.4 -9.5 8.6 2.7 12.5 -11.2 -6.4 -11.2 6.4 2.7 -12.5 -9.5 -8.6 12.7 -1.4z"/><path transform="translate(46 0)" d="M18 0 l5.3 11.6 12.7 1.4 -9.5 8.6 2.7 12.5 -11.2 -6.4 -11.2 6.4 2.7 -12.5 -9.5 -8.6 12.7 -1.4z"/><path transform="translate(92 0)" d="M18 0 l5.3 11.6 12.7 1.4 -9.5 8.6 2.7 12.5 -11.2 -6.4 -11.2 6.4 2.7 -12.5 -9.5 -8.6 12.7 -1.4z"/><path transform="translate(138 0)" d="M18 0 l5.3 11.6 12.7 1.4 -9.5 8.6 2.7 12.5 -11.2 -6.4 -11.2 6.4 2.7 -12.5 -9.5 -8.6 12.7 -1.4z"/><path transform="translate(184 0)" d="M18 0 l5.3 11.6 12.7 1.4 -9.5 8.6 2.7 12.5 -11.2 -6.4 -11.2 6.4 2.7 -12.5 -9.5 -8.6 12.7 -1.4z"/>
+  </g>
+  <text x="480" y="260" text-anchor="middle" font-family="'Nunito','Open Sans',Arial,sans-serif" font-size="30" font-weight="700" fill="#1d2b4a">“Add a real quote from a happy customer.”</text>
+  <text x="480" y="310" text-anchor="middle" font-family="'Nunito','Open Sans',Arial,sans-serif" font-size="20" fill="#5b6b88">Customer name · City</text>
+  <rect x="380" y="360" width="200" height="34" rx="17" fill="#eef3fb"/>
+  <text x="480" y="383" text-anchor="middle" font-family="'Nunito','Open Sans',Arial,sans-serif" font-size="15" font-weight="700" fill="#2f64b1">SAMPLE REVIEW</text>
+  <text x="40" y="508" font-family="'Nunito','Open Sans',Arial,sans-serif" font-size="20" font-weight="700" fill="#fff">NexSync Solutions</text>
+</svg>

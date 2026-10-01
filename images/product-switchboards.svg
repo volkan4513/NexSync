@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 720" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="sw" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d9dee6"/><stop offset="1" stop-color="#9aa6b8"/></linearGradient>
+    <radialGradient id="swg" r=".5"><stop offset="0" stop-color="#ffffff" stop-opacity=".35"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <linearGradient id="swfade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#000" stop-opacity=".35"/><stop offset=".35" stop-color="#000" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect width="440" height="720" fill="url(#sw)"/>
+  
+  <rect x="0" y="0" width="440" height="720" fill="#c9cfd9" opacity=".3"/>
+  <g opacity=".25" stroke="#7d8798"><line x1="110" y1="0" x2="110" y2="720"/><line x1="330" y1="0" x2="330" y2="720"/></g>
+  <circle cx="220" cy="420" r="230" fill="#3fd0f0" opacity=".12"/>
+  <rect x="96" y="250" width="248" height="330" rx="22" fill="#0f1726"/>
+  <rect x="96" y="250" width="248" height="330" rx="22" fill="none" stroke="#4b5d7d" stroke-width="3"/>
+  <path d="M110 262 h120 l-80 300 h-40 a10 10 0 0 1 -10 -10z" fill="#fff" opacity=".05"/>
+  <g fill="none" stroke="#3fd0f0" stroke-width="5" stroke-linecap="round">
+    <circle cx="170" cy="330" r="22"/><circle cx="270" cy="330" r="22" opacity=".45"/>
+    <circle cx="170" cy="420" r="22"/><circle cx="270" cy="420" r="22"/>
+  </g>
+  <g fill="#3fd0f0"><circle cx="170" cy="330" r="6"/><circle cx="170" cy="420" r="6"/><circle cx="270" cy="420" r="6"/></g>
+  <rect x="140" y="490" width="160" height="10" rx="5" fill="#26324a"/>
+  <rect x="140" y="490" width="104" height="10" rx="5" fill="#3fd0f0"/>
+  <circle cx="244" cy="495" r="10" fill="#fff"/>
+  <g fill="#3fd0f0" opacity=".7"><rect x="200" y="530" width="6" height="16" rx="2"/><rect x="211" y="526" width="6" height="20" rx="2"/><rect x="222" y="522" width="6" height="24" rx="2"/><rect x="233" y="518" width="6" height="28" rx="2" opacity=".35"/></g>
+  <rect width="440" height="720" fill="url(#swfade)"/>
+</svg>

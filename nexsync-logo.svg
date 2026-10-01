@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72" width="72" height="72">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2f64b1"/>
+      <stop offset="1" stop-color="#1fb6d9"/>
+    </linearGradient>
+  </defs>
+  <rect width="72" height="72" rx="18" fill="url(#g)"/>
+  <!-- "N" drawn as a single flow line: starts at a node, ends in an arrow (sync) -->
+  <path d="M22 50 V22 L50 50 V26" fill="none" stroke="#fff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M41.5 28 L50 17 L58.5 28 Z" fill="#fff" stroke="#fff" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="22" cy="53" r="5.5" fill="#fff"/>
+  <circle cx="22" cy="53" r="2.2" fill="#2f64b1"/>
+</svg>

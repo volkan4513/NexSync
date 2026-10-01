@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <defs><clipPath id="c"><circle cx="200" cy="200" r="140"/></clipPath></defs>
+  <circle cx="200" cy="200" r="180" fill="#eef3fb"/>
+  <g clip-path="url(#c)"><rect x="60" y="60" width="280" height="94" fill="#ff9933"/><rect x="60" y="154" width="280" height="94" fill="#fff"/><rect x="60" y="248" width="280" height="94" fill="#138808"/></g>
+  <circle cx="200" cy="200" r="140" fill="none" stroke="#2f64b1" stroke-width="8"/>
+  <circle cx="200" cy="201" r="34" fill="none" stroke="#000080" stroke-width="5"/>
+  <g stroke="#000080" stroke-width="2.5"><line x1="166.0" y1="201.0" x2="234.0" y2="201.0"/><line x1="167.2" y1="192.2" x2="232.8" y2="209.8"/><line x1="170.6" y1="184.0" x2="229.4" y2="218.0"/><line x1="176.0" y1="177.0" x2="224.0" y2="225.0"/><line x1="183.0" y1="171.6" x2="217.0" y2="230.4"/><line x1="191.2" y1="168.2" x2="208.8" y2="233.8"/><line x1="200.0" y1="167.0" x2="200.0" y2="235.0"/><line x1="208.8" y1="168.2" x2="191.2" y2="233.8"/><line x1="217.0" y1="171.6" x2="183.0" y2="230.4"/><line x1="224.0" y1="177.0" x2="176.0" y2="225.0"/><line x1="229.4" y1="184.0" x2="170.6" y2="218.0"/><line x1="232.8" y1="192.2" x2="167.2" y2="209.8"/></g>
+  <circle cx="200" cy="201" r="6" fill="#000080"/>
+</svg>

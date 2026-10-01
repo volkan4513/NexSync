@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 620"><defs>
+  <linearGradient id="scr" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2f64b1"/><stop offset=".55" stop-color="#1fb6d9"/><stop offset="1" stop-color="#8fe6ff"/></linearGradient>
+  <radialGradient id="h" r=".5"><stop offset="0" stop-color="#3fd0f0" stop-opacity=".45"/><stop offset="1" stop-color="#3fd0f0" stop-opacity="0"/></radialGradient><clipPath id="c"><rect x="95" y="200" width="360" height="170"/></clipPath></defs>
+  <g clip-path="url(#c)"><ellipse cx="285" cy="290" rx="150" ry="90" fill="url(#h)"/></g>
+  <rect x="230" y="256" width="110" height="60" rx="2" fill="url(#scr)"/>
+  <path d="M230 316 L260 256 H300 L262 316z" fill="#fff" opacity=".12"/>
+  <circle cx="335" cy="312" r="1.6" fill="#7dffb0"/>
+</svg>

@@ -499,3 +499,16 @@
 .contact .info-box{height:100%}
 .contact .email-form .error-message{text-align:center}
 .contact .section-header .contact-lead{font-size:1rem;font-weight:400;color:var(--font-color);margin:10px 0 0;text-transform:none;line-height:1.6}
+
+/* Compact 2-column features and highlights on phones */
+@media(max-width:575px){
+  .features-overview h2{font-size:22px}
+  .features-overview .feature-item{padding:.75rem .25rem}
+  .features-overview .feature-item .feature-icon{width:52px;height:52px;margin-bottom:.6rem;font-size:1.4rem}
+  .features-overview .feature-item h4{font-size:15px;margin-bottom:.35rem}
+  .features-overview .feature-item p{font-size:12.5px;line-height:1.45;margin-bottom:0}
+  .highlights .box{padding:14px 10px}
+  .highlights .box img{padding:6px 14px;max-height:100px;margin-bottom:6px}
+  .highlights .box h3{font-size:16px;margin-bottom:6px}
+  .highlights .box p{font-size:12.5px;line-height:1.45;margin-bottom:0}
+}

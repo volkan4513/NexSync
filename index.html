@@ -82,8 +82,32 @@
       @media (max-width:991px){
         .sd-wrap{grid-template-columns:1fr}
         .sd-panel{border-right:0;border-bottom:1px solid #e1ecff}
-        .sd-grid{grid-template-columns:repeat(auto-fill,minmax(130px,1fr))}
+        .sd-panel-head{font-size:16px;padding:10px}
+        .sd-grid{grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:8px 16px;padding:14px 16px}
+        .sd-device{display:grid;grid-template-columns:auto 1fr;grid-template-rows:auto auto;column-gap:10px;row-gap:0;align-items:center;text-align:left}
+        .sd-pill{grid-row:1 / span 2;padding:3px 3px 3px 8px}
+        .sd-icon{width:18px;height:18px}
+        .sd-track{width:60px;height:26px;padding:0 8px}
+        .sd-knob{width:20px;height:20px}
+        .sd-device.is-on .sd-knob{left:37px}
+        .sd-name{margin-top:0;font-size:13px;line-height:1.2;align-self:end}
+        .sd-status{font-size:11px;line-height:1.2;align-self:start}
+        .sd-all{padding:0 16px 14px}
+        .sd-all-btn{padding:6px 0;font-size:13px}
         .sd-stage{padding:16px}
+      }
+      @media (max-width:575px){
+        .sd-grid{grid-template-columns:1fr 1fr;gap:8px 8px;padding:12px 10px}
+        .sd-device{column-gap:6px}
+        .sd-pill{gap:4px;padding:2px 2px 2px 6px}
+        .sd-icon{width:14px;height:14px}
+        .sd-track{width:44px;height:22px;padding:0 5px}
+        .sd-state{font-size:9px}
+        .sd-knob{width:16px;height:16px}
+        .sd-device.is-on .sd-knob{left:25px}
+        .sd-name{font-size:10.5px;white-space:nowrap}
+        .sd-status{font-size:10px}
+        .sd-all{padding:0 10px 12px}
       }
       @media (prefers-reduced-motion:reduce){.sd-layer,.sd-knob,.sd-track,.sd-pill{transition:none}}
     </style>
